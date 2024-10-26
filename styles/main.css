@@ -11,14 +11,16 @@ body {
 
     margin: 0px;
     padding: 0px;
-    background-color: #252525;
+    background-color: #1A1A19;
 }
 
 .main_title {
     width: 100%;
-    color: white;
+    color: #F6FCDF;
+    text-decoration: underline #31511E;
+    text-underline-offset: 20%;
     font-family: "Montserrat";
-    font-size: 32px;
+    font-size: 42px;
     font-weight: bolder;
     display: flex;
     justify-content: center;
