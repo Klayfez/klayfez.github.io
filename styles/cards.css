@@ -13,6 +13,8 @@
     width: auto;
     height: auto;
     margin: 1%;
+    margin-left: 2%;
+    margin-right: 2%;
     background-color: #31511E;
     color: #F6FCDF;
     font-size: 10px;
@@ -30,7 +32,7 @@
 .card-title {
     color: #F6FCDF;
     font-size: 24px;
-    font-weight: 600;
+    font-weight: bold;
     margin: 1%;
     margin-bottom: 0.5%;
 }
@@ -38,7 +40,7 @@
 .card-text {
     margin: 1%;
     margin-top: 0.5%;
-    font-size: 18px;
+    font-size: 16px;
     line-height: 1.6;
 }
 
