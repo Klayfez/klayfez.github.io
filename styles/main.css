@@ -14,7 +14,7 @@ body {
     background-color: #1A1A19;
 }
 
-.main_title {
+.main-title {
     width: 100%;
     color: #F6FCDF;
     text-decoration: underline #31511E;
@@ -27,7 +27,7 @@ body {
     align-items: center;
 }
 
-.main_title_s {
+.main-title-s {
     color: limegreen;
 }
 
