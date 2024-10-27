@@ -30,3 +30,7 @@ body {
 .main_title_s {
     color: limegreen;
 }
+
+a {
+    text-decoration: none;
+}
