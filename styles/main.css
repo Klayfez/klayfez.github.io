@@ -16,8 +16,8 @@ body {
 
 .main-title {
     width: 100%;
-    color: #F6FCDF;
-    text-decoration: underline #31511E;
+    color: #FFFFFF;
+    text-decoration: underline #4E76CB;
     text-underline-offset: 20%;
     font-family: "Montserrat";
     font-size: 42px;
@@ -34,4 +34,3 @@ body {
 a {
     text-decoration: none;
 }
-
